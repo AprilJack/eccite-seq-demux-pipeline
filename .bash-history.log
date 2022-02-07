@@ -1,0 +1,5 @@
+2022-02-07.11:02:44  1121  cd /gpfs/analyses/april/April/eccite-seq-demux-pipeline/
+2022-02-07.11:02:45  1122  ll 
+2022-02-07.11:03:02  1123  git init
+2022-02-07.11:05:56  1124  ls -la
+2022-02-07.11:07:29  1125  git init -b main

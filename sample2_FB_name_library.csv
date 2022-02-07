@@ -1,0 +1,3 @@
+fastqs,sample,library_type
+/gpfs/analyses/april/pathto/raw_data/FB_sample2,sample2_FB_name,Antibody Capture
+/gpfs/analyses/april/pathto/raw_data/GEX_sample2,sample2_GEX_name,Gene Expression
